@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="40%" align="right" />
+<img src="https://media.tenor.com/pPoUmi0Z1fUAAAAC/cat-pet.gif" width="30%" align="right" />
 
 # Welcome to My Github Profile👋
 
