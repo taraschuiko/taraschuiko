@@ -2,7 +2,7 @@
 
 # Welcome to My Github Profile👋
 
-<p>I'm a Front End Developer based in Kraków, Poland, skilled in HTML, CSS/Sass, JavaScript, and TypeScript. I specialize in web application development using React, Next.js, Gatsby, and other tools. I've created many websites, worked on improving e-commerce websites, made support processes smoother with Freshdesk, and contributed to projects in educational platforms and medical data science. I've also worked on A/B testing ASO tools, created landing pages and websites, developed user-friendly applications, built online store scrapers, and contributed to various other web and app projects. Feel free to connect!</p>
+<p>I'm a Front End Developer based in Kraków, Poland, skilled in HTML, CSS/Sass, JavaScript, and TypeScript. I specialize in web application development using React, Next.js, Gatsby, and other tools. I've created many websites, worked on improving e-commerce websites, made support processes smoother with Freshdesk, and contributed to projects in educational platforms and medical data science. I've also worked on A/B testing ASO tools, created landing pages and websites, developed user-friendly applications, built online store scrapers, and contributed to various other projects. Feel free to connect!</p>
 
 ## Experience
 
